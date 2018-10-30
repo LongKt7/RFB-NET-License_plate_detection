@@ -34,10 +34,10 @@ wget https://s3.amazonaws.com/amdegroot-models/vgg16_reducedfc.pth
 
 - To train RFBNet using the train script simply specify the parameters listed in `train_RFB.py` as a flag or manually change them.
 ```Shell
-python train_RFB.py -d VOC -v RFB_vgg -s 300 
+python train_RFB.py -d ANPR -v RFB_vgg -s 300 
 ```
 - Note:
-  * -d: choose datasets, VOC or COCO.
+  * -d: choose datasets, VOC, ANPR or COCO
   * -v: choose backbone version, RFB_VGG, RFB_E_VGG or RFB_mobile.
   * -s: image size, 300 or 512.
   * You can pick-up training from a checkpoint by specifying the path as one of the training parameters (again, see `train_RFB.py` for options)
