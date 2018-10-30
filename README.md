@@ -49,5 +49,3 @@ python train_RFB.py -d ANPR -v RFB_vgg -s 300
   * -s: image size, 300 or 512.
   * You can pick-up training from a checkpoint by specifying the path as one of the training parameters (again, see `train_RFB.py` for options)
   * If you want to reproduce the results in the paper, the VOC model should be trained about 240 epoches while the COCO version need 130 epoches.
-  
->>>>>>> f64deac2622afb1864569b8356452d43696423c2
