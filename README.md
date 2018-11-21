@@ -4,12 +4,6 @@
 * License_plate_detection weights [RFB_Net300] (https://drive.google.com/file/d/1-cBiSRdfEH4_-pJ7FU4nCajRhSARFZEO/view?usp=sharing)
 ## Datasets
 * Dataset+target: (https://drive.google.com/drive/folders/1mkFeNGTMMDoullEbgbtle1nk-ft7PQLW?usp=sharing)
-=======
-## RFB_Net object detection: [Github](https://github.com/ruinmessi/RFBNet)
-## Models
-* License_plate_detection weights [RFB_Net300] (https://drive.google.com/file/d/1-cBiSRdfEH4_-pJ7FU4nCajRhSARFZEO/view?usp=sharing)
-## Datasets
-* Dataset+target: (https://drive.google.com/drive/folders/1mkFeNGTMMDoullEbgbtle1nk-ft7PQLW?usp=sharing)
 ## Installation
 - Install [PyTorch-0.4.0](http://pytorch.org/) by selecting your environment on the website and running the appropriate command.
 - Clone this repository. This repository is mainly based on [ssd.pytorch](https://github.com/amdegroot/ssd.pytorch) and [Chainer-ssd](https://github.com/Hakuyume/chainer-ssd), a huge thank to them.
