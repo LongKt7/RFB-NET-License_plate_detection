@@ -1,7 +1,7 @@
 # License_plate_detection
 ## RFB_Net object detection: [Github](https://github.com/ruinmessi/RFBNet)
 ## Models
-* Pre-train [RFB_Net300](https://drive.google.com/file/d/1-3nWA7rpG4lSa5E5oq9nFgWD5JyHi4y-/view?usp=sharing)
+* Pre-train [RFB_Net300](https://www.dropbox.com/s/qwi7miba7gr15nh/RFB_vgg_ANPR_epoches_300.pth?dl=0)
 ## Datasets
 * [Dataset+target](https://drive.google.com/drive/folders/1mkFeNGTMMDoullEbgbtle1nk-ft7PQLW?usp=sharing)
 ## Installation
